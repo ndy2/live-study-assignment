@@ -1,43 +1,21 @@
 package as2345;
 
+import as2345.util.CsvToList;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ParameterContext;
 import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.aggregator.AggregateWith;
 import org.junit.jupiter.params.aggregator.ArgumentsAccessor;
 import org.junit.jupiter.params.aggregator.ArgumentsAggregator;
 import org.junit.jupiter.params.provider.CsvSource;
 
-import java.lang.annotation.ElementType;
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.annotation.Target;
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThatThrownBy;
-
-@Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.PARAMETER)
-@AggregateWith(ListAggregator.class)
-@interface CsvToList {
-}
-
-class ListAggregator implements ArgumentsAggregator {
-    @Override
-    public List<Integer> aggregateArguments(ArgumentsAccessor arguments, ParameterContext context) {
-        int size = arguments.size();
-        List<Integer> list = new ArrayList<>();
-        for (int i = 0; i < size; i++) {
-            list.add(arguments.getInteger(i));
-        }
-        return list;
-    }
-}
 
 @DisplayName("리스트 노드 클래스")
 class ListNodeTest {
