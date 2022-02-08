@@ -32,19 +32,20 @@ class BinaryTreeTest {
 
     @DisplayName("bfs 프린트 테스트")
     @ParameterizedTest
-    @CsvSource({
-            "1",
-            "1,2",
-            "1,2,3",
-            "1,2,3,4",
-            "3,2,4",
-            "20,1,2,4,3,30"
+    @CsvSource(delimiterString = "=>",value = {
+            "1 => 1",
+            "1,2 => 1,2",
+            "1,2,3 => 1 2 3",
+            "1,2,3,4 => 1 2 3 4",
+            "3,2,4 => 3 2 4",
+            "20,1,2,4,3,30 => 20 1 30 2 4 3"
     })
-    void printBfsTest(@CsvToList List<Integer> in){
+    void printBfsTest(@CsvToTestCase TestCase tc){
         BinaryTree binaryTree = new BinaryTree();
-        for (Integer integer : in) {
+        for (Integer integer : tc.in) {
             binaryTree.add(integer);
         }
-        binaryTree.bfs(new Node(in.get(0)));
+        System.out.println(tc.expectedOut);
+        binaryTree.bfs(new Node(tc.in.get(0)));
     }
 }
