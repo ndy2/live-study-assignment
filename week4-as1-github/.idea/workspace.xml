@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50401d67-8e79-4787-92db-f0b25abcba33" name="Changes" comment="디렉토리 이름 변경">
+      <change afterPath="$PROJECT_DIR$/../live-study/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/AS1_GitHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/as2345/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/as2345/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/as2345/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/as2345/StackListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/week5/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/main/java/week5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/ListNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/StackListNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/util/CsvToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/as2345/util/ListAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/week5/BinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/week5/CsvToTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/week5/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/src/test/java/week5/TestCaseAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/AS1_GitHub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/as2345/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/as2345/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/as2345/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/as2345/StackListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/token" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/week5/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/classes/week5/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/LinkedListTest$AddTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/LinkedListTest$LengthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/LinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest$AddTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest$LengthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest$atTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest$containsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest$removeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/ListNodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/StackListNodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/util/CsvToList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/as2345/util/ListAggregator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/week5/BinaryTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/week5/CsvToTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/week5/TestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../live-study/target/test-classes/week5/TestCaseAggregator.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24YimWR3F6joEHThNxo3He7fVz4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.35562807" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="week5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week5" />
+      <recent name="as2345" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BinaryTreeTest.printBfsTest (1)">
+    <configuration name="BinaryTreeTest.printBfsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="live-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.BinaryTreeTest" />
+      <option name="METHOD_NAME" value="printBfsTest(week5.TestCase)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.printBfsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="live-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.BinaryTreeTest" />
+      <option name="METHOD_NAME" value="printBfsTest(java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.printDfsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="live-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.BinaryTreeTest" />
+      <option name="METHOD_NAME" value="printDfsTest(java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.printDfsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="live-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.BinaryTreeTest" />
+      <option name="METHOD_NAME" value="printDfsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackListNodeTest.stackIntegratedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="live-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="as2345.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="as2345" />
+      <option name="MAIN_CLASS_NAME" value="as2345.StackListNodeTest" />
+      <option name="METHOD_NAME" value="stackIntegratedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BinaryTreeTest.printBfsTest (1)" />
+        <item itemvalue="JUnit.BinaryTreeTest.printBfsTest" />
+        <item itemvalue="JUnit.BinaryTreeTest.printDfsTest (1)" />
+        <item itemvalue="JUnit.BinaryTreeTest.printDfsTest" />
+        <item itemvalue="JUnit.StackListNodeTest.stackIntegratedTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50401d67-8e79-4787-92db-f0b25abcba33" name="Changes" comment="" />
+      <created>1643814089550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643814089550</updated>
+      <workItem from="1643814093812" duration="3630000" />
+      <workItem from="1643978897926" duration="8829000" />
+      <workItem from="1644217634187" duration="3808000" />
+      <workItem from="1644319387392" duration="4442000" />
+    </task>
+    <task id="LOCAL-00001" summary="과제 2. LinkedList">
+      <created>1643986523351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643986523351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="과제 구현&#10;&#10;과제 2 LinkedList, 과제 3 Stack, 과제 4 StackListNode">
+      <created>1644220886339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644220886339</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5주차 과제 BinaryTree, Node 구현,테스트">
+      <created>1644322266537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644322266537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5주차 과제 테스트 어노테이션 추가">
+      <created>1644323394922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644323394922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="디렉토리 이름 변경">
+      <created>1644323489074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644323489074</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="과제 2. LinkedList를 구현" />
+    <MESSAGE value="과제 2. LinkedList" />
+    <MESSAGE value="과제 구현&#10;&#10;과제 2 LinkedList, 과제 3 Stack, 과제 4 StackListNode" />
+    <MESSAGE value="5주차 과제 BinaryTree, Node 구현,테스트" />
+    <MESSAGE value="5주차 과제 테스트 어노테이션 추가" />
+    <MESSAGE value="디렉토리 이름 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="디렉토리 이름 변경" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="as2345.ListNode" memberName="len" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package as2345;
+package week4.assignment;
 
 import java.util.EmptyStackException;
 
@@ -12,7 +12,7 @@ public class Stack {
         top = -1;
     }
 
-    void push(int data){
+    public void push(int data){
         top+=1;
         if(arr.length == top){
             int[] temp = new int[arr.length+1];
@@ -26,7 +26,7 @@ public class Stack {
         }
     }
 
-    int pop(){
+    public int pop(){
         if(top==-1){
             System.out.println("EmptyStack");
             throw new EmptyStackException();

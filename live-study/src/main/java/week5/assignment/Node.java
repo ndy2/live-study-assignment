@@ -1,4 +1,4 @@
-package week5;
+package week5.assignment;
 
 import java.util.LinkedList;
 import java.util.Queue;

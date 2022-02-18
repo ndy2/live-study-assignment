@@ -2,13 +2,12 @@ package week5;
 
 import as2345.util.CsvToList;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
+import week5.assignment.BinaryTree;
+import week5.assignment.Node;
 
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class BinaryTreeTest {
 

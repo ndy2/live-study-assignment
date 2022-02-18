@@ -1,4 +1,4 @@
-package as2345;
+package week4.assignment;
 
 public class StackListNode {
 
@@ -8,11 +8,11 @@ public class StackListNode {
         arr = new ListNode<>(0);
     }
 
-    void push(int data){
+    public void push(int data){
         arr.add(new ListNode<>(data),0);
     }
 
-    int pop() throws Exception {
+    public int pop() throws Exception {
         ListNode<Integer> ret = arr.remove(0);
         if (ret == null) {
             throw new Exception("No more stack");

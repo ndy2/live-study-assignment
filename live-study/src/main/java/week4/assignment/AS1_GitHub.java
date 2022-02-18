@@ -1,3 +1,5 @@
+package week4.assignment;
+
 import org.kohsuke.github.*;
 
 import java.io.*;

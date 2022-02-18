@@ -1,4 +1,4 @@
-package as2345;
+package week4.assignment;
 
 public class LinkedList {
 

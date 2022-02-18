@@ -2,8 +2,7 @@ package as2345;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.util.EmptyStackException;
+import week4.assignment.StackListNode;
 
 import static org.junit.jupiter.api.Assertions.*;
 
