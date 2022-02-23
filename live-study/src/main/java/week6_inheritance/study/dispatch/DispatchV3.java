@@ -14,6 +14,8 @@ public class DispatchV3 {
     static class Text implements Post{
         public void postOn(SNS sns) {
             sns.post(this);
+
+
         }
     }
     static class Picture implements Post{
