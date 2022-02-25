@@ -1,3 +1,3 @@
 src/main/resources/*
-*.class
 target/*
+!mytarget/*.class
